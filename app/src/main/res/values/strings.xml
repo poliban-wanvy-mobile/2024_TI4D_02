@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMIcalculator</string>
+    <string name="about_us">AboutUs</string>
+    <string name="menu_logout">LogOut</string>
+</resources>
